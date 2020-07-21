@@ -1,8 +1,6 @@
 # Product Features Identification with AI on Android-App
 
 
-![Environmental contour](example-environmental-contour.jpg)
-
 An AI-assisted application to support process designers in the identification of the product states and its features. The case study of a schredding process is examplary visuali.
 
 
